@@ -104,7 +104,7 @@ jobs:
 
             for dir in ${dirs[@]}
             do
-              year="${dir:0:4}"  # Convert YY to YYYY (assuming year >= 2000)
+              year="20${dir:0:2}"  # Convert YY to YYYY (assuming year >= 2000)
               next_year=$((year + 1))  # Get the following academic year
 
               # Format: YYYY-YYYY
