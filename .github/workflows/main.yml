@@ -111,7 +111,7 @@ jobs:
                 echo "Skipping invalid directory name: $dir"
                 continue
               fi
-              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO}/${dir}/'>$dt</a></h3>" >> index.md
+              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO}/${dir}/'>$academic_year</a></h3>" >> index.md
             
             done
 
