@@ -1,26 +1,18 @@
 ---
-title: "Schedule"
-author: "John Doe"
+title: "Schema"
 date: today
 ---
 
 <br>
 
-##### Date
 
-| Time | Session |
-|------|------|
-| 09:00 - 10:15 | [Module 1](module1.qmd) |
-| 10:15 - 10:45 | Coffee break |
-| 10:45 - 12:00 | [Module 2](module2.qmd) |
-| 12:00 - 13:00 | Lunch |
+| Datum | Tid  | Aktivitet |
+|------|-------|---------| 
+| 18 - 19 okt | 11.00 - 17.00 | [Steg 1](#) |
+| 13 nov    | 19.00 - 20.00 | Online: Pedagogik och lärande |
+| 28 jan    | 19.00 - 20.00 | Online: Din utveckling som kursledare |
+| 7 - 8 mar | 11.00 - 17.00 | [Steg 2](#)
 : {tbl-colwidths="[25,75]"} 
 
-<br/>
-     
-##### Date    
+Utöver dessa schemalagda aktiviteter tillkommer observationstillfällen och praktiktillfällen.
 
-| Time | Topic |
-|------|------|
-| 09:00 - 12:00 | Discussion session |
-: {tbl-colwidths="[25,75]"} 

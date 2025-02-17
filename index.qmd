@@ -1,60 +1,71 @@
 ---
-title: "Course Syllabus"
-author: "John Doe"
+title: "Programöversikt"
 date: today
 ---
 
 ::: {.callout-warning icon=false}
 
-## About
+## Om
 
-**Organizers:** 	                SciLifeLab  
-**Date:**	   	                    Month, date, year  
-**Location:**		 			    SciLifeLab Solna, Air&Fire  
-**Suggested number of credits:** 	X hp  
-**Enrollment opens:**				Month day, year  
-**Enrollment closes:**				Month day, year     
-**Course fee:**				        XX   
+**Organisatör:** 	                West Coast Swing Umeå  
+**Datum:**	   	                    18 oktober - 7 mars  
+**Var:**		 			        Umeå + online  
+**Kostnad:**				        1500:-   
 
 :::
 
-Course lead: John Doe (SciLifeLab) <a href="https://orcid.org/0000-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+Anmälan till programmet:
 
-Course contact: john.doe@scilifelab.se
 
-## Course description
+Kontakt: info@wcsumea.se
 
-Short description of the course
+## Beskrivning av programmet
 
-## Learning Objectives and Learning Outcomes
-#### Learning Objectives
+Kort beskrivning.
 
-- To get acquainted with...
-- To be able to...
+## Förkunskapskrav
+För att kunna gå detta programmet vill vi att den sökande har:
+- Dansat minst 1-2 år regelbundet
+- Gått en nybörjarkurs och fortsättningskurs minst 1 gång vardera
 
-#### Learning Outcomes
+## Mål med programmet
+Efter avslutat program ska eleven själv kunna planera och hålla:
+- Prova-på lektioner
+- Nybörjarkurser Steg 1
+- Fortsättningskurser Steg 2
+
+
+## Lärandemål
 
 By the end of this course, learners will be able to:
 
 - Name...
 - Describe...
 
-## Target audience and course prerequisites
+## Upplägg av programmet
 
-**Target audience:** XXX    
-**Course prerequisites:** none   
-**Level:** beginner/intermediate  
+**Helgkurs: Kursledarutbildning Del 1** (18-19 Oktober?)
+Mål: Att kunna hålla en grundkurs och Prova på
+
+**Online seminarium: Pedagogik och lärande** (13 November?)
+
+**Online seminarium: Din utveckling som kursledare** (28 Januari?)
+
+**Praktik**  
+- Observera minst ett kurstillfälle (Nybörjarkurs/Prova på)
+- Utvärdera vad du såg utifrån ett antal frågor
+- Diskutera med kursledaren efteråt
+
+- Håll minst ett kurstillfälle med ordinarie kursledare
+- Planera tillfället tillsammans med ordinarie kursledare, använd dina lärdomar från observationstillfället
+- Utvärdera kurstillfället tillsammans med kursledaren
+
+- Utvärdera dina upplevelser i en kort reflektionsrapport
+
+**Helgkurs: Kursledarutbildning Del 2** (7-8 Mars?)
 
 
-## Forms of instruction and examination  
-
-**Forms of instruction:** In-person, digital communications  
-**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars  
-**Language:** English    
-**Examination:** Active participation in all sessions and group assignments.   
+## Examination och certifiering  
 
 
 
-## Additional notes  
-
-- Other useful information  
