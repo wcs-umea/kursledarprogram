@@ -9,6 +9,7 @@ Programmet består av flera olika aktiviteter som löper under flera månader. T
 
 #### Helgkurs: Kursledarutbildning Steg 1
 **Var:** På plats i Umeå  
+**Kurshemsida:** [Kursledarutbildning Steg 1](https://wcs-umea.github.io/kursledarutbildning-steg1/2510/)  
 Helgkurs där vi kommer att starta igång programmet med en hel helg. Vi går igenom grunderna du behöver kunna som kursledare. Målet med denna kurs är att du ska ha de verktyg och turer du behöver för att börja hålla nybörjarkurser och prova på kurser.
 
 #### Seminarie: Pedagogik och lärande
