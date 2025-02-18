@@ -8,7 +8,7 @@ branches:
     output-dir: "2024-2025"         # change this to year and month of the course instance
 
 website:
-  title: "Kursledarprogram WCS"
+  title: "Kursledarprogram WCS 2024-2025"
   sidebar:
     style: "floating"
     background: "#F4F6F6"
@@ -16,12 +16,14 @@ website:
     search: true
     contents: 
       - index.qmd 
+      - setup.qmd
       - schedule.qmd
       - resources.qmd
   navbar:
     background: "#800080"
     logo: "img/wcsumea-logo.png"
   favicon: "img/wcsumea-logo.png"
+  body-footer: footer.html
 
 
 format:

@@ -1,5 +1,5 @@
 ---
-title: "Programresurser"
+title: "Resurser"
 date: today
 ---
 
