@@ -8,20 +8,26 @@ date: today
 ## Om
 
 **Organisatör:** 	                West Coast Swing Umeå  
-**Datum:**	   	                    18 oktober - 7 mars  
+**Datum:**	   	                    18 oktober 2025 - 7 mars 2026  
 **Var:**		 			        Umeå + online  
-**Kostnad:**				        1500:-   
+**Kostnad:**				        1000:-   
 
 :::
 
-Anmälan till programmet:
+<a href="https://yggdrasil.dance/wcsumea/kursledarprogram2526" class="btn btn-primary">Anmälan</a>
+
+Sista ansökningsdag: **11 maj 2025**  
+
+*Urval och antagning sker efter anmälan är stängd*
 
 
 Kontakt: info@wcsumea.se
 
 ## Beskrivning av programmet
 
-Kort beskrivning.
+Programmets mål  är att ge nya/blivande kursledare de kunskaper och verktyg de behöver för att börja hålla egna kurser. Programmet blandar teoretiska ramverk med praktiska övningar, och går igenom alla turer och tekniker som behövs för att kunna hålla nybörjar- och fortsättningskurser. Programmet sträcker sig från oktober till mars, med två utbildningar på plats i Umeå, samt onlinemöten däremellan. Stor vikt kommer också läggas vid de praktiska momenten där deltagaren ska observera/praktisera under en riktigt kurs.
+
+Denna omgång av programmet riktar sig främst till föreningar/communities i Norrland, då vi vill hjälpa till att främja tillväxten av WCS i norr, men alla är välkomna att söka och tas in i mån av plats.
 
 ## Förkunskapskrav
 För att kunna gå detta programmet vill vi att den sökande har:
@@ -39,15 +45,28 @@ Efter avslutat program ska eleven själv kunna planera och hålla:
 
 ## Lärandemål
 
-By the end of this course, learners will be able to:
+Efter avslutad utbildning ska eleven kunna:
 
-- Name...
-- Describe...
+- Förstå grundläggande pedagogik och vad som främjar lärande
+- Tillämpa pedagogiska och övriga ramverk för att hålla en kurs
+- Skapa en kursplan för grund- och fortsättningskurser baserad på mallar
+- Förstå sin roll som ledare
+- Anpassa kursmaterial och lektioner efter deltagare
+- Skapa kursmiljöer som är trygga och främjar lärande
+- Välja passande musik till kurser
+
+## Urval
+
+Om programmet får fler sökande än platser kommer urval ske efter:  
+
+- Hälften av platserna reserveras för medlemmar i WCS Umeå
+- Resten av platserna reserveras för medlemmar i andra föreningar/communities i Norrland. Platserna fördelas jämnt över föreningarna
+- Nya kursledare och deltagare som försöker starta igång kursverksamhet i sin förening prioriteras
 
 
+## Certifiering
 
-
-## Examination och certifiering  
+Om deltagaren medverkar aktivt i alla moment kommer de få ett certifikat på genomgången utbildning i slutet på programmet.
 
 
 

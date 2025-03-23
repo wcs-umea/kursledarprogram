@@ -5,14 +5,16 @@ date: today
 
 <br>
 
+*Schemat för onlinesessionerna är preliminärt, och kan komma att uppdateras.*
 
 | Datum | Tid  | Aktivitet |
 |------|-------|---------| 
-| 18 - 19 okt | 11.00 - 17.00 | [Steg 1](#) |
+| 18 - 19 okt | 11.00 - 17.00 | Umeå: Utbildning Steg 1 |
 | 13 nov    | 19.00 - 20.00 | Online: Pedagogik och lärande |
-| 28 jan    | 19.00 - 20.00 | Online: Din utveckling som kursledare |
-| 7 - 8 mar | 11.00 - 17.00 | [Steg 2](#)
-: {tbl-colwidths="[25,75]"} 
+| 28 jan    | 19.00 - 20.00 | Online: Din roll som ledare och förebild |
+| 2 mar     | 19.00 - 20.00 | Online: Din utveckling som kursledare |
+| 7 - 8 mar | 11.00 - 17.00 | Umeå: Utbildning Steg 2 |
+: {tbl-colwidths="[20,20,60]"} 
 
 Utöver dessa schemalagda aktiviteter tillkommer observationstillfällen och praktiktillfällen.
 
