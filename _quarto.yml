@@ -4,7 +4,7 @@ project:
 
 # several branches can be specified here
 branches:
-  - branch: "release-2024-2025"     # change this to the release branch
+  - branch: "release-2025-2026"     # change this to the release branch
     output-dir: "2025-2026"         # change this to year and month of the course instance
 
 website:
