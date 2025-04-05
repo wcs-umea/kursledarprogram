@@ -1,0 +1,67 @@
+---
+title: "Praktik"
+date: today
+
+format:
+  html: 
+    toc: true
+    theme: cosmo
+  pdf: 
+    latex-engine: xelatex
+    documentclass: scrreprt
+---
+
+## Praktik
+
+
+
+## Reflektionsfrågor observation
+
+1. Hur var lektionen strukturerad?
+(Ex. repetition, teknikdel, turer, övrigt?)
+
+2. Vilka pedagogiska metoder använde kursledarna?
+(Ex. förklaringar, demonstrationer, frågor till deltagarna, etc.)
+
+3. Hur hanterades deltagarfrågor och osäkerhet i gruppen?
+(Ex. bemötande, omformuleringar, etc.)
+
+
+4. Hur skapades en positiv och trygg lärmiljö?
+(Ex. tonläge, kroppsspråk, humor, bekräftelse, inkluderande språk?)
+
+5. Vilka lärdomar tar du med dig till din egen roll som kursledare?
+
+6. Övrigt som du reflekterade över?
+
+
+## Reflektionsfrågor praktik
+
+#### Förberedelse och planering
+1. Hur upplevde du planeringer inför lektionen?
+(Vad var lätt/svårt? Hur samarbetade du med den ordinarie kursledaren?)
+
+2. Hur väl följde ni er lektionsplan, och hur mycket anpassade ni under lektionen?
+
+#### Genomförande
+
+3. Hur fungerade din egen kommunikation med gruppen?
+(Kroppsspråk, röst, tempo, tydlighet – vad fungerade bra och vad kan förbättras?)
+
+4. Hur presenterade ni som kursledare tekniken eller turerna?
+(Förstod kursdeltagarna vad ni menade? Hur vet du det?)
+
+5. Hur fungerade samspelet med den andra kursledaren?
+(Var ni i synk när ni förklarade, pratade ni lika mycket, etc)
+
+6. Vad gjorde ni som kursledare för att skapa trygghet och engagemang i gruppen?
+
+#### Reflektion och lärande
+
+7. Vad är du mest nöjd med i din insats och varför?
+
+8. Vad skulle du vilja göra annorlunda nästa gång och varför?
+
+9. Vilken feedback fick du från kursledaren och/eller deltagare, och hur tolkar du den?
+
+10. Vad lärde du dig om dig själv som kursledare genom detta tillfälle?
