@@ -13,6 +13,14 @@ format:
 
 ## Praktik
 
+Syftet med att både observera och praktisera under ett ordinarie kurstillfälle är att ge deltagarna chansen att testa och reflektera över de kunskaper de fått under programmet under en riktigt kurs. För mer information om upplägg se [Upplägg](setup.qmd#hands-on--praktik).
+
+1. Ta kontakt med de kursledare du vill observera/praktisera hos
+2. Närvara/delta under lektionen och svara på reflektionsfrågorna efteråt
+3. Utvärdera lektionen efteråt med ordinarie kursledare
+4. Maila in reflektionsfrågorna till oss
+
+Vi kommer att följa upp frågorna och reflektionerna mer under Steg 2-helgen.
 
 
 ## Reflektionsfrågor observation
