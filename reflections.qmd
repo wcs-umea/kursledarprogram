@@ -6,14 +6,12 @@ format:
   html: 
     toc: true
     theme: cosmo
-  pdf: 
-    latex-engine: xelatex
-    documentclass: scrreprt
+  custom-pdfs-typst:
+    keep-typ: true
 ---
 
-## Praktik
 
-Syftet med att både observera och praktisera under ett ordinarie kurstillfälle är att ge deltagarna chansen att testa och reflektera över de kunskaper de fått under programmet under en riktigt kurs. För mer information om upplägg se [Upplägg](setup.qmd#hands-on--praktik).
+Syftet med att både **observera** och **praktisera** under ett ordinarie kurstillfälle är att ge deltagarna chansen att testa och reflektera över de kunskaper de fått under programmet under en riktigt kurs. För mer information om upplägg se [Upplägg](setup.qmd#hands-on--praktik).
 
 1. Ta kontakt med de kursledare du vill observera/praktisera hos
 2. Närvara/delta under lektionen och svara på reflektionsfrågorna efteråt
@@ -22,6 +20,7 @@ Syftet med att både observera och praktisera under ett ordinarie kurstillfälle
 
 Vi kommer att följa upp frågorna och reflektionerna mer under Steg 2-helgen.
 
+[Ladda ner kursplanering som PDF](reflections.pdf){target="_blank"}
 
 ## Reflektionsfrågor observation
 
