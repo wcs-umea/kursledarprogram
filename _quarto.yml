@@ -19,6 +19,7 @@ website:
       - setup.qmd
       - schedule.qmd
       - reflections.qmd
+      - seminars.qmd
       - links.qmd
       - text: "Steg 1"
         href: https://wcs-umea.github.io/kursledarutbildning-steg1/2510/
