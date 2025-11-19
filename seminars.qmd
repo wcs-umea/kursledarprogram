@@ -8,3 +8,6 @@ Nedan finner ni material och inspelningar från seminarierna.
 
 ## Pedagogik och lärande
 
+<iframe src="materials/pedagogics.html" width="100%" height="300px" style="border: none;"></iframe>
+
+[Ladda ner PDF](materials/pedagogics.pdf){target="_blank"}

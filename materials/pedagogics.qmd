@@ -1,0 +1,210 @@
+---
+page-title: "Pedagogik och lärande"
+
+format: 
+    revealjs:
+        theme: [default, custom.scss]
+        title-slide: false
+        logo: ../img/wcsumea-logo-black.png
+        footer: "Kursledarprogram WCS 2025-2026"
+---
+
+# Pedagogik och lärande {background-color="#880088" footer="false"}
+
+<br>
+
+::: {#logo}
+![](../img/wcsumea-logo.png){width="25%"}
+:::
+
+<br>
+
+Kursledarprogram WCS 2025
+
+## Lärandemål
+
+<br>
+
+Efter avslutat seminarie ska deltagaren kunna:
+
+- Förstå vad ett lärandemål är
+- Beskriva de olika stegen i Blooms taxonomi
+- Förstå hur lärandemål kan användas för att planera lektioner
+- Tillämpa Blooms verb och matchande läraktiviteter för att planera en lektion
+
+## Vad är lärandemål?
+
+<br>
+
+Vad menas med att kunna grunderna i WCS?
+
+<br>
+
+::: fragment
+* Lista grundturerna?
+:::
+
+::: fragment
+* Förstå skillnaden mellan pushes och passes?
+:::
+
+::: fragment
+* Utföra grundturerna?
+:::
+
+::: fragment
+* Analysera en tur och identifiera vilken grundtur den är byggd på?
+:::
+
+::: fragment
+* Skapa nya turer baserat på grundturerna?
+:::
+
+## Vad är lärandemål?
+
+<br>
+
+* Beskriver vad deltagarna ska kunna efter lektionen/kursen
+
+* Gör det lättare att planera en lektion utefter vad målet är
+
+* Gör det lättare att utvärdera om målet är uppnått
+
+* Gör det lättare att kommunicera med andra kursledare
+
+
+## Blooms taxonomi
+
+<br>
+
+![](img/Blooms_Taxonomy.jpg){fig-align="center"}
+
+
+## Hur definierar vi bra mål i dans?
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+Istället för **“jobba med stretch”**:
+
+* **Förstå**: Kan beskriva vad stretch innebär
+* **Tillämpa**: Kan skapa stretch i ankarsteg
+* **Analysera**: Kan identifiera var i dansen stretch saknas
+* **Skapa**: Kan skapa nya turer beroende på hur stretchen varieras
+:::
+
+::: {.column width="50%"}
+![](img/Blooms_Taxonomy.jpg){fig-align="right" height=400}
+:::
+:::::
+
+## Kursdesign
+
+<br>
+
+Hur använder vi lärandemål för att designa kurser/lektioner?
+
+<br>
+
+![](img/instructional_design.png){fig-align="center"}
+
+
+## Välja lärandeaktiviteter utefter lärandemål
+
+<br>
+
+| Blooms | Aktivitet  | Dansaktivitet |
+|--------|------------|---------------| 
+| Komma ihåg | Föreläsning   | Teoretisk introduktion  |
+| Förstå     | Uppsats       | Kategorisera turer      |
+| Tillämpa   | Övningar      | Dansa och använda turer |
+| Analysera  | Övningar      | Bryta ner turer i delar |
+| Utvärdera  | Peer feedback | Utvärdera din/andras dans, ge feedback |
+| Skapa      | Grupparbete   | Musikalitetsövningar, Fortsätta från en viss punkt |
+: {tbl-colwidths="[25,25,50]"} 
+
+
+## Kognitiv belastning – hur mycket kan vi säga på en gång?
+
+<br>
+
+::: fragment
+Arbetsminnet är begränsat, överbelasta det inte
+:::
+
+::: fragment
+Chunking: dela upp komplexa moment i tydliga smådelar
+:::
+
+::: fragment
+Ge en instruktion i taget
+:::
+
+::: fragment
+Undvik att undervisa figur + teknik + styling samtidigt
+:::
+
+::: fragment
+Visa före du förklarar (VPIÖ)
+:::
+
+
+## Vad betyder det här för oss instruktörer?
+
+<br>
+
+::: fragment
+**1. Planera lektioner utifrån ett huvudmål**
+
+- Bestäm en sak som deltagarna ska kunna när lektionen är klar (**demonstrera stretch i ankarsteg**)
+
+- Sikta på 1 huvudmål + 1 stödmål
+
+Exempel:
+
+*Dagens mål är att demonstrera bra stretch i ändlägen. Turen vi använder är bara verktyget*
+:::
+
+## Vad betyder det här för oss instruktörer?
+
+<br>
+
+::: fragment
+**2. Välj turer efter målet (inte tvärtom)**
+
+- Figuren är inte målet, den är bara ett träningsredskap
+
+- Om målet är timing: välj turer som låter deltagarna fokusera på timing, inte komplicerade turer
+
+- Om målet är musikalitet: undvik att gå alltför mycket in på teknik
+:::
+
+## Vad betyder det här för oss instruktörer?
+
+<br>
+
+::: fragment
+**3. Använd Bloom för att variera nivån på en övning**
+
+Exempel left side turn:
+
+* **Förstå**: beskriva vad turen bygger på
+* **Tillämpa**: dansa turen i takt
+* **Analysera**: hitta var de tappar connection
+* **Utvärdera**: ge partners feedback
+* **Skapa**: göra en egen variant
+:::
+
+
+## Diskussion: Att använda lärandemål för att planera en lektion
+
+<br>
+
+**1. Hur kan lärandemål och kursdesign hjälpa oss planera våra WCS-lektioner?**
+
+**2. Hur skulle ett exempel kunna se ut?**
+
+<br>
+
+Diskutera i grupper
