@@ -33,3 +33,45 @@ h2 {
 .align-right {
   text-align: right;
 }
+
+.small-table {
+    font-size: 0.9em;
+}
+
+.xsmall-table {
+    font-size: 0.75em;
+}
+
+.xsmall-table td:nth-child(1),
+.xsmall-table th:nth-child(1) {
+  background-color: #A189C9;
+}
+
+.xsmall-table td:nth-child(2),
+.xsmall-table th:nth-child(2) {
+  background-color: #8e89c9;
+}
+
+.xsmall-table td:nth-child(3),
+.xsmall-table th:nth-child(3) {
+  background-color: #A5CFE1;
+}
+
+.xsmall-table td:nth-child(4),
+.xsmall-table th:nth-child(4) {
+  background-color: #91B585;
+}
+
+.xsmall-table td:nth-child(5),
+.xsmall-table th:nth-child(5) {
+  background-color: #E0DF72;
+}
+
+.xsmall-table td:nth-child(6),
+.xsmall-table th:nth-child(6) {
+  background-color: #E09F72;
+}
+
+#xsmall-table thead tr th {
+  border-bottom: 4px solid #000 !important;
+}

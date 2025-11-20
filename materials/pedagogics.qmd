@@ -40,27 +40,16 @@ Vad menas med att kunna grunderna i WCS?
 
 <br>
 
-::: fragment
+::: incremental
 * Lista grundturerna?
-:::
-
-::: fragment
 * Förstå skillnaden mellan pushes och passes?
-:::
-
-::: fragment
 * Utföra grundturerna?
-:::
-
-::: fragment
 * Analysera en tur och identifiera vilken grundtur den är byggd på?
-:::
-
-::: fragment
 * Skapa nya turer baserat på grundturerna?
 :::
 
-## Vad är lärandemål?
+
+## Varför använder vi lärandemål?
 
 <br>
 
@@ -84,9 +73,10 @@ Vad menas med att kunna grunderna i WCS?
 
 <br>
 
+Istället för **“jobba med stretch”**:
+
 ::::: columns
 ::: {.column width="50%"}
-Istället för **“jobba med stretch”**:
 
 * **Förstå**: Kan beskriva vad stretch innebär
 * **Tillämpa**: Kan skapa stretch i ankarsteg
@@ -98,6 +88,22 @@ Istället för **“jobba med stretch”**:
 ![](img/Blooms_Taxonomy.jpg){fig-align="right" height=400}
 :::
 :::::
+
+## Blooms verb
+
+<br>
+
+::: {.smaller}
+
+| Komma ihåg  | Förstå       | Tillämpa   | Analysera   | Utvärdera   | Skapa      |
+|-------------|--------------|------------|-------------|-------------|------------| 
+| Definiera   | Förklara     | Använda    | Identifiera | Jämföra     | Kombinera  |
+| Beskriva    | Utveckla     | Verkställa | Illustrera  | Förklara    | Utarbeta   |
+| Lista       | Ge exempel   | Producera  | Relatera    | Motivera    | Konstruera | 
+| Nämna       | Sammanfatta  | Visa       | Välja       | Sammanfatta | Organisera |
+| Identifiera | Generalisera | Lösa       | Bearbeta    | Föreslå     | Modifiera  |
+: {.xsmall-table}
+:::
 
 ## Kursdesign
 
@@ -114,6 +120,8 @@ Hur använder vi lärandemål för att designa kurser/lektioner?
 
 <br>
 
+::: {.smaller}
+
 | Blooms | Aktivitet  | Dansaktivitet |
 |--------|------------|---------------| 
 | Komma ihåg | Föreläsning   | Teoretisk introduktion  |
@@ -122,31 +130,19 @@ Hur använder vi lärandemål för att designa kurser/lektioner?
 | Analysera  | Övningar      | Bryta ner turer i delar |
 | Utvärdera  | Peer feedback | Utvärdera din/andras dans, ge feedback |
 | Skapa      | Grupparbete   | Musikalitetsövningar, Fortsätta från en viss punkt |
-: {tbl-colwidths="[25,25,50]"} 
-
+: {.small-table .sm tbl-colwidths="[25,25,50]"}
+:::
 
 ## Kognitiv belastning – hur mycket kan vi säga på en gång?
 
 <br>
 
-::: fragment
-Arbetsminnet är begränsat, överbelasta det inte
-:::
-
-::: fragment
-Chunking: dela upp komplexa moment i tydliga smådelar
-:::
-
-::: fragment
-Ge en instruktion i taget
-:::
-
-::: fragment
-Undvik att undervisa figur + teknik + styling samtidigt
-:::
-
-::: fragment
-Visa före du förklarar (VPIÖ)
+::: incremental
+* Arbetsminnet är begränsat, överbelasta det inte
+* Chunking: dela upp komplexa moment i tydliga smådelar
+* Ge en instruktion i taget
+* Undvik att undervisa figur + teknik + styling samtidigt
+* Visa före du förklarar (VPIÖ)
 :::
 
 
