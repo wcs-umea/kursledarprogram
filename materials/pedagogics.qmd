@@ -29,7 +29,7 @@ Efter avslutat seminarie ska deltagaren kunna:
 
 - Förstå vad ett lärandemål är
 - Beskriva de olika stegen i Blooms taxonomi
-- Förstå hur lärandemål kan användas för att planera lektioner
+- Förklara hur lärandemål kan användas för att planera lektioner
 - Tillämpa Blooms verb och matchande läraktiviteter för att planera en lektion
 
 ## Vad är lärandemål?
@@ -105,6 +105,26 @@ Istället för **“jobba med stretch”**:
 : {.xsmall-table}
 :::
 
+## Designa ett lärandemål
+
+<br>
+
+Bestäm ett lärandemål för din lektion/kurs enligt:
+
+::: {.textbox}
+*Efter avslutad lektion ska deltagaren kunna \<Blooms verb\> \<aktivitet\>*
+:::
+
+<br>
+
+::: fragment
+
+::: {.textbox}
+Efter avslutad lektion ska deltagaren **förklara** hur lärandemål kan användas för att planera lektioner
+:::
+
+:::
+
 ## Kursdesign
 
 <br>
@@ -159,7 +179,7 @@ Hur använder vi lärandemål för att designa kurser/lektioner?
 
 Exempel:
 
-*Dagens mål är att demonstrera bra stretch i ändlägen. Turen vi använder är bara verktyget*
+*Dagens lärandemål är för deltagarna att visa bra stretch i ändlägen. Turen vi använder är bara verktyget*
 :::
 
 ## Vad betyder det här för oss instruktörer?
@@ -169,7 +189,7 @@ Exempel:
 ::: fragment
 **2. Välj turer efter målet (inte tvärtom)**
 
-- Figuren är inte målet, den är bara ett träningsredskap
+- Figuren är inte alltid målet, den är bara ett redskap
 
 - Om målet är timing: välj turer som låter deltagarna fokusera på timing, inte komplicerade turer
 
@@ -193,13 +213,17 @@ Exempel left side turn:
 :::
 
 
-## Diskussion: Att använda lärandemål för att planera en lektion
+## Övning: Att använda lärandemål för att planera en lektion
 
 <br>
 
-**1. Hur kan lärandemål och kursdesign hjälpa oss planera våra WCS-lektioner?**
+**1. Välj ett tema för en lektion**
 
-**2. Hur skulle ett exempel kunna se ut?**
+**2. Formulera 1-2 lärandemål enligt Blooms**
+
+**3. Bestäm lärandeaktiviteter**
+
+**4. Bestäm hur ni ska utvärdera om deltagarna nått målen**
 
 <br>
 

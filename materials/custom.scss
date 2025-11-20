@@ -75,3 +75,10 @@ h2 {
 #xsmall-table thead tr th {
   border-bottom: 4px solid #000 !important;
 }
+
+.textbox {
+  background: lightgrey;     /* light gray background */
+  padding: 10px;
+  border-radius: 12px;     /* rounded corners */
+  border: 1px solid #ddd;  /* subtle border */
+}
