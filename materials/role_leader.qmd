@@ -1,0 +1,146 @@
+---
+page-title: "Din roll som ledare"
+
+format: 
+    revealjs:
+        theme: [default, custom.scss]
+        title-slide: false
+        logo: ../img/wcsumea-logo-black.png
+        footer: "Kursledarprogram WCS 2025-2026"
+---
+
+# Din roll som ledare {background-color="#880088" footer="false"}
+
+<br>
+
+::: {#logo}
+![](../img/wcsumea-logo.png){width="25%"}
+:::
+
+<br>
+
+Kursledarprogram WCS 2025
+
+## Lärandemål
+
+<br>
+
+Efter avslutat seminarie ska deltagaren kunna:
+
+- Förstå sin roll som ledare i communityt
+- Ha reflekterat kring vilken kultur de aktivt skapar
+- Känna till vilket informellt ansvar som följer med rollen
+
+
+## Varför pratar vi om ledarskap?
+
+<br>
+
+- West Coast Swing-communityt är fortfarande ganska nytt
+- Kultur skapas tidigt av de som driver communityt
+- Som kursledare har du större påverkan än du tror
+
+
+## Mer än en instruktör
+
+<br>
+
+Som kursledare är du också:
+
+- Förebild
+- Normsättare
+- Trygghetsskapare
+- Ambassadör för communityt
+
+
+## Det osynliga ansvaret
+
+<br>
+
+Även när du inte undervisar:
+
+- Folk tittar på hur du beter dig
+- Hur du pratar om andra
+- Vem du dansar med
+- Hur du hanterar konflikter
+
+**Oavsett om du vill eller inte – du påverkar**
+
+
+## Reflektion
+
+<br>
+
+::: fragment
+
+**Tänk på en ledare, tränare eller lärare som betytt mycket för dig**
+
+*Vad var det hen gjorde som fick dig att känna dig trygg, sedd eller motiverad?*
+:::
+
+::: fragment
+
+<br>
+
+**Tänk på ett tillfälle där en ledare fick dig att känna dig liten, osäker eller ovälkommen**
+
+*Vad var det som hände?*
+:::
+
+
+## Värderingar som ledare
+
+<br>
+
+Exempel på grundvärderingar:
+
+- Trygghet
+- Respekt
+- Inkludering
+- Nyfikenhet
+- Glädje
+
+::: fragment
+**Har ditt community en Code of Conduct?**
+:::
+
+
+## Reflektionsfråga
+
+<br>
+
+Fundera själv:
+
+1. **Hur vill jag att deltagare ska känna sig efter min klass?**
+2. **Vad vill jag att de ska säga om communityt?**
+
+
+## Att vara förebild (även när det är svårt)
+
+<br>
+
+- Du kommer göra misstag, och det är okej
+- Ledarskap är att ta ansvar
+- Att be om ursäkt är också ledarskap
+
+
+## Att sätta gränser
+
+<br>
+
+Som ledare kan du behöva:
+
+- Säga ifrån vid olämpligt beteende
+- Skydda tryggheten i gruppen
+- Be om hjälp i tid, andra kursledare finns
+
+Du ska inte bära allt själv
+
+
+## Reflektion
+
+<br>
+
+1. Hur kan det vi pratat om idag påverka hur du undervisar, bemöter och leder?
+2. Vilka små handlingar tror du kan göra störst skillnad för trygghet och inkludering?
+3. Vad vill du att människor ska minnas av dig – inte som dansare, utan som ledare?

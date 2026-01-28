@@ -21,3 +21,12 @@ Nedan finner ni material och inspelningar från seminarierna.
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 </div>
+
+
+<br>
+
+## Din roll some ledare
+
+<iframe src="materials/role_leader.html" width="100%" height="300px" style="border: none;"></iframe>
+
+[Ladda ner PDF](materials/role_leader.pdf){target="_blank"}
