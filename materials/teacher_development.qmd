@@ -7,7 +7,7 @@ format:
         title-slide: false
         logo: ../img/wcsumea-logo-black.png
         footer: "Kursledarprogram WCS 2025-2026"
-        fontsize: 24pt
+        fontsize: 22pt
 ---
 
 # Din utveckling som kursledare {background-color="#880088" footer="false"}
