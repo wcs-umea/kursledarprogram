@@ -9,11 +9,11 @@ date: today
 
 | Datum | Tid  | Aktivitet |
 |------|-------|---------| 
-| 18 - 19 okt | 11.00 - 17.00 | Umeå: Utbildning Steg 1 |
+| 18 - 19 okt | 11.00 - 16.00 | Umeå: Utbildning Steg 1 |
 | 20 nov    | 19.00 - 20.00 | Online: Pedagogik och lärande |
 | 28 jan    | 19.00 - 20.00 | Online: Din roll som ledare och förebild |
 | 2 mar     | 19.00 - 20.00 | Online: Din utveckling som kursledare |
-| 7 - 8 mar | 11.00 - 17.00 | Umeå: Utbildning Steg 2 |
+| 7 - 8 mar | 11.00 - 16.00 | Umeå: Utbildning Steg 2 |
 | 27 april  | 19.00 - 20.00 | Online: Wrap-up av programmet |
 : {tbl-colwidths="[20,20,60]"} 
 
