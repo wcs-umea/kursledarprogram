@@ -23,6 +23,8 @@ website:
       - links.qmd
       - text: "Steg 1"
         href: https://wcs-umea.github.io/kursledarutbildning-steg1/2510/
+      - text: "Steg 2"
+        href: https://wcs-umea.github.io/kursledarutbildning-steg2/2603/
   #    - resources.qmd
   navbar:
     background: "#800080"
