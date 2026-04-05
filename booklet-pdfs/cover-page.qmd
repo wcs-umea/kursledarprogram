@@ -1,0 +1,10 @@
+---
+title: "Onlineseminarier"
+format:
+  custom-pdfs-typst:
+    toc: false
+    keep-typ: true
+format-links: false
+datetag: "2026"
+footer: "West Coast Swing Umeås kursledarprogram 2025-2026"
+---

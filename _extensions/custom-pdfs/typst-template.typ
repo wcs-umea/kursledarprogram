@@ -1,33 +1,14 @@
-
-#set text(fill: rgb("#444444"))
-#set par(leading: 0.7em)
-#set block(spacing: 1.4em)
-
-
-#set table(
-  gutter: 0.0em,
-  stroke: rgb("C0C0C0"),
-  inset: (right: 1.5em, top: 0.5em, bottom: 0.5em),
-)
-
-
-
 #let custom-pdfs(
   course: none,
   title: none,
   datetag: none,
   footer: none,
-
   body
-
 ) = {
-  
 
-  // body font
-  set text(12.5pt)
-
-
+  // page styling
   set page(
+    fill: rgb("#880088"),
     margin: (left: 2.5cm, right: 2.5cm, top: 2.5cm, bottom: 3cm),
 
     footer: {
@@ -40,22 +21,23 @@
     }
   )
 
+  // override text color for dark background
+  set text(fill: white)
 
+  // center content
+  set align(center)
 
-  // underline links.
-  show link: underline
+  image("img/wcsumea-logo.png", width: 50%)
 
-  // page body
-  grid(
-    columns: 1fr,
-    row-gutter: 20pt,
-    
+  v(100pt)
 
-    // body flow
-    {
-      set par(justify: true)
-      body
-    }
+  text(size: 4em, weight: "bold", title)
 
-  )
+  v(20pt)
+
+  text(size: 2.5em, weight: "bold", datetag)
+
+  v(100pt)
+
+  text(size: 1.5em, weight: "bold", course)
 }
